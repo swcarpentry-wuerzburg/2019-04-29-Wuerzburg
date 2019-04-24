@@ -1,6 +1,6 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
-carpentry: "scw"      # what kind of Carpentry (must be either "lc" or "dc" or "swc").  
+carpentry: "swc"      # what kind of Carpentry (must be either "lc" or "dc" or "swc").  
                       # Be sure to update the Carpentry type in _config.yml as well.  
 venue: "GSLS/CCTB-Wuerzburg"    # brief name of host site without address (e.g., "Euphoric State University")
 address: "Building 21 GSLS - Graduate School of Life Sciences, Beatrice-Edgell-Weg 21, Campus Hubland Nord, 97074 Würzburg"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
