@@ -4,13 +4,13 @@ carpentry: "swc"      # what kind of Carpentry (must be either "lc" or "dc" or "
                       # Be sure to update the Carpentry type in _config.yml as well.  
 venue: "SWC GSLS/CCTB-Würzburg"    # brief name of host site without address (e.g., "Euphoric State University")
 address: "Building 21 GSLS - Graduate School of Life Sciences, Beatrice-Edgell-Weg 21, Campus Hubland Nord, 97074 Würzburg"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
-country: "GER"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)
-language: "ENG"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
+country: "de"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)
+language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
 latlng: "49.785343, 9.970506"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
 humandate: "APR 29-30, 2019"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "9:00 am - 4:30 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2019-04-29      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: F2019-04-30        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+enddate: 2019-04-30        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Markus Ankenbrand", "Florian Goth", "Torsten Paul"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Jan Freudenthal", "Andreas Berberich", "Nico Braun", "Jonas Schwab", "Tobias Müller"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["torsten.paul@uni-wuerzburg.de"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
